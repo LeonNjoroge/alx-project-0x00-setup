@@ -1,5 +1,5 @@
-import React from "react";
 import {PillProps} from "@/interfaces";
+import React from "react";
 
 const Pill: React.FC<PillProps> = ({title}) => {
     return (
